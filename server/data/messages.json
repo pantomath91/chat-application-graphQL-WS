@@ -1,0 +1,52 @@
+[
+  {
+    "id": "SJKhIAKYB",
+    "from": "system",
+    "text": "Welcome!"
+  },
+  {
+    "id": "Z8eMtepPwpc2Gb2EgdjxK",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "nhnqdlR94s1e3qco-n9QD",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "6TXW-sXa_YdV_W56Udap6",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "yC5FEXCHcaWOv2jeN48FE",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "FKXy1ACbT5RUaP-Da_-en",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "tMx3ADnOfz7W0QKXn0POq",
+    "from": "alice",
+    "text": "hit"
+  },
+  {
+    "id": "p4KYZJiJkvCCgi7e6Zj94",
+    "from": "bob",
+    "text": "hi bon"
+  },
+  {
+    "id": "YFZW3sIaNLp2IjZVm_X6K",
+    "from": "bob",
+    "text": "how are you"
+  },
+  {
+    "id": "4R4f59qKGqqhXM1BfX9l4",
+    "from": "charlie",
+    "text": "sdfsdf"
+  }
+]
